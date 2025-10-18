@@ -1,5 +1,4 @@
-# VecStreetBoys
-VecStreetBoys is my implementation of the Word2Vec model using the Bag-of-Words algorithm.
+# Word2Vec
 
 Word2Vec is a project i have wanted to work on for a very long time. It was one of the biggest things in the NLP world when it was released back in 2013. Fancy name, big company backing it, it was a runaway hit. Word2Vec bridged the gap between linguistics and mathematics one step closer. 
 
